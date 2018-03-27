@@ -1,0 +1,11 @@
+Thios is an test purpose crud system
+
+Database name: users
+tble name: tbl_user
+
+Designing: Bootstrap.
+
+note: 1.The combox, radio-button, checkbox will be more dynamic upto project requirement.
+2.more security will possible to provide.
+3.more things will be possible to do with form validation.
+4.There is little hints given in the comments.
